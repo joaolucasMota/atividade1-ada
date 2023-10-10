@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: 'Loved by the King', cursive;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section{
+    max-width: 500px;
+}
+
+header{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 3rem 0rem;
+
+    >h1{
+        border-bottom: 2px solid rgba(45,255,196,0.9);
+    }
+
+    >img{
+        height: 10rem;
+        width: 10rem;
+        border-radius: 50%;
+        -webkit-box-shadow:0px 0px 222px 45px rgba(45,255,196,0.9);
+        -moz-box-shadow: 0px 0px 222px 45px rgba(45,255,196,0.9);
+        box-shadow: 0px 0px 222px 45px rgba(45,255,196,0.9);
+    }
+}
+
+main{
+    background-color: white;
+    margin: 4rem;
+    padding: .9rem;
+    border-radius: 1rem ;
+    -webkit-box-shadow:0px 0px 0px 17px rgba(45,255,196,0.9);
+    -moz-box-shadow: 0px 0px 0px 17px rgba(45,255,196,0.9);
+    box-shadow: 0px 0px 0px 17px rgba(45,255,196,0.9);
+}
+
+footer{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.meu-svg {
+    width: 5rem; 
+    height: 5rem;
+    color: white;
+}
