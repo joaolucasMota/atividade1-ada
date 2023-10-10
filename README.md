@@ -3,4 +3,4 @@
 
 <p>O deplou esta em>: <a href="https://joaolucasmota7.netlify.app/">Clique aqui!</a></p>
 
-<img href="https://imgur.com/a/Ael9Csb">
+<img href="https://i.imgur.com/RVEM8gC.png">
